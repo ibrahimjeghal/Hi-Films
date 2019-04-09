@@ -75,6 +75,7 @@ transition: all, 0.3s;
 
 .card-img-top:hover{
   transform: scale(1.05, 1.05);
+  transition: 0.3s;
 }
 
 .linked {
